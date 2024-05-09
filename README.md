@@ -1,2 +1,2 @@
-# gerenciadorlivrariacsharp
-Gerenciador de Livraria C#
+# Gerenciador de Livraria C#
+Desafio prático

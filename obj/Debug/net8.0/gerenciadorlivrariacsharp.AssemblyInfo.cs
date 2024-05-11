@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gerenciadorlivrariacsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fe88703385e5ea2e1055485bbbe4132f25a973")]
 [assembly: System.Reflection.AssemblyProductAttribute("gerenciadorlivrariacsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gerenciadorlivrariacsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\gerenciadorlivrariacsharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|e:\\gerenciadorlivrariacsharp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|e:\\gerenciadorlivrariacsharp\\entity\\booklistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|solutionrelative:entity\\booklistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|e:\\gerenciadorlivrariacsharp\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|solutionrelative:entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|e:\\gerenciadorlivrariacsharp\\communication\\response\\responseregisterbookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C25C80-1EAC-4A5D-AB84-066127F124DE}|gerenciadorlivrariacsharp.csproj|solutionrelative:communication\\response\\responseregisterbookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseRegisterBookJson.cs",
+              "DocumentMoniker": "E:\\gerenciadorlivrariacsharp\\Communication\\Response\\ResponseRegisterBookJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Response\\ResponseRegisterBookJson.cs",
+              "ToolTip": "E:\\gerenciadorlivrariacsharp\\Communication\\Response\\ResponseRegisterBookJson.cs",
+              "RelativeToolTip": "Communication\\Response\\ResponseRegisterBookJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:10:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookListEntity.cs",
+              "DocumentMoniker": "E:\\gerenciadorlivrariacsharp\\Entity\\BookListEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\BookListEntity.cs",
+              "ToolTip": "E:\\gerenciadorlivrariacsharp\\Entity\\BookListEntity.cs",
+              "RelativeToolTip": "Entity\\BookListEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:53:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "E:\\gerenciadorlivrariacsharp\\Entity\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\BookEntity.cs",
+              "ToolTip": "E:\\gerenciadorlivrariacsharp\\Entity\\BookEntity.cs",
+              "RelativeToolTip": "Entity\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:53:22.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\gerenciadorlivrariacsharp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "E:\\gerenciadorlivrariacsharp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:58:16.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
